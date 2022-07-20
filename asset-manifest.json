@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/SayanoSong/csi3125project2.github.io/static/css/main.cc6f5c46.css",
-    "main.js": "/SayanoSong/csi3125project2.github.io/static/js/main.fc183e0e.js",
-    "static/js/787.ce240156.chunk.js": "/SayanoSong/csi3125project2.github.io/static/js/787.ce240156.chunk.js",
-    "static/media/home_game1.png": "/SayanoSong/csi3125project2.github.io/static/media/home_game1.08b432cbe1d42fec876f.png",
-    "static/media/miku.jpg": "/SayanoSong/csi3125project2.github.io/static/media/miku.be6828901fad775e9fa3.jpg",
-    "static/media/destiny1.png": "/SayanoSong/csi3125project2.github.io/static/media/destiny1.1d88de5d2108e1e21012.png",
-    "static/media/main_bg.png": "/SayanoSong/csi3125project2.github.io/static/media/main_bg.761bdb5fe20e61706a55.png",
-    "static/media/csgo.jpg": "/SayanoSong/csi3125project2.github.io/static/media/csgo.410c3bbdfaf578bab452.jpg",
-    "static/media/destiny.jpg": "/SayanoSong/csi3125project2.github.io/static/media/destiny.1258ebba2af6299c0993.jpg",
-    "static/media/Stellaris.jpg": "/SayanoSong/csi3125project2.github.io/static/media/Stellaris.fa43e9e0373bf2cab85d.jpg",
-    "static/media/AmongUs.png": "/SayanoSong/csi3125project2.github.io/static/media/AmongUs.de3eebe07577116f21d0.png",
-    "static/media/halfLife.jpg": "/SayanoSong/csi3125project2.github.io/static/media/halfLife.5a8df386aad77042bd43.jpg",
-    "index.html": "/SayanoSong/csi3125project2.github.io/index.html",
-    "main.cc6f5c46.css.map": "/SayanoSong/csi3125project2.github.io/static/css/main.cc6f5c46.css.map",
-    "main.fc183e0e.js.map": "/SayanoSong/csi3125project2.github.io/static/js/main.fc183e0e.js.map",
-    "787.ce240156.chunk.js.map": "/SayanoSong/csi3125project2.github.io/static/js/787.ce240156.chunk.js.map"
+    "main.css": "/csi3125project2.github.io/static/css/main.fd501b4c.css",
+    "main.js": "/csi3125project2.github.io/static/js/main.9b51fc6b.js",
+    "static/js/787.ce240156.chunk.js": "/csi3125project2.github.io/static/js/787.ce240156.chunk.js",
+    "static/media/home_game1.png": "/csi3125project2.github.io/static/media/home_game1.08b432cbe1d42fec876f.png",
+    "static/media/miku.jpg": "/csi3125project2.github.io/static/media/miku.be6828901fad775e9fa3.jpg",
+    "static/media/destiny1.png": "/csi3125project2.github.io/static/media/destiny1.1d88de5d2108e1e21012.png",
+    "static/media/main_bg.png": "/csi3125project2.github.io/static/media/main_bg.761bdb5fe20e61706a55.png",
+    "static/media/csgo.jpg": "/csi3125project2.github.io/static/media/csgo.410c3bbdfaf578bab452.jpg",
+    "static/media/destiny.jpg": "/csi3125project2.github.io/static/media/destiny.1258ebba2af6299c0993.jpg",
+    "static/media/Stellaris.jpg": "/csi3125project2.github.io/static/media/Stellaris.fa43e9e0373bf2cab85d.jpg",
+    "static/media/AmongUs.png": "/csi3125project2.github.io/static/media/AmongUs.de3eebe07577116f21d0.png",
+    "static/media/halfLife.jpg": "/csi3125project2.github.io/static/media/halfLife.5a8df386aad77042bd43.jpg",
+    "index.html": "/csi3125project2.github.io/index.html",
+    "main.fd501b4c.css.map": "/csi3125project2.github.io/static/css/main.fd501b4c.css.map",
+    "main.9b51fc6b.js.map": "/csi3125project2.github.io/static/js/main.9b51fc6b.js.map",
+    "787.ce240156.chunk.js.map": "/csi3125project2.github.io/static/js/787.ce240156.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cc6f5c46.css",
-    "static/js/main.fc183e0e.js"
+    "static/css/main.fd501b4c.css",
+    "static/js/main.9b51fc6b.js"
   ]
 }
