@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/csi3125project2.github.io/static/css/main.fd501b4c.css",
-    "main.js": "/csi3125project2.github.io/static/js/main.9b51fc6b.js",
+    "main.css": "/csi3125project2.github.io/static/css/main.cba54bcd.css",
+    "main.js": "/csi3125project2.github.io/static/js/main.f40552c5.js",
     "static/js/787.ce240156.chunk.js": "/csi3125project2.github.io/static/js/787.ce240156.chunk.js",
     "static/media/home_game1.png": "/csi3125project2.github.io/static/media/home_game1.08b432cbe1d42fec876f.png",
     "static/media/miku.jpg": "/csi3125project2.github.io/static/media/miku.be6828901fad775e9fa3.jpg",
@@ -13,12 +13,12 @@
     "static/media/AmongUs.png": "/csi3125project2.github.io/static/media/AmongUs.de3eebe07577116f21d0.png",
     "static/media/halfLife.jpg": "/csi3125project2.github.io/static/media/halfLife.5a8df386aad77042bd43.jpg",
     "index.html": "/csi3125project2.github.io/index.html",
-    "main.fd501b4c.css.map": "/csi3125project2.github.io/static/css/main.fd501b4c.css.map",
-    "main.9b51fc6b.js.map": "/csi3125project2.github.io/static/js/main.9b51fc6b.js.map",
+    "main.cba54bcd.css.map": "/csi3125project2.github.io/static/css/main.cba54bcd.css.map",
+    "main.f40552c5.js.map": "/csi3125project2.github.io/static/js/main.f40552c5.js.map",
     "787.ce240156.chunk.js.map": "/csi3125project2.github.io/static/js/787.ce240156.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd501b4c.css",
-    "static/js/main.9b51fc6b.js"
+    "static/css/main.cba54bcd.css",
+    "static/js/main.f40552c5.js"
   ]
 }
